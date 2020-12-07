@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "700529931072",
+    "firebase_url": "https://codelab-135d6.firebaseio.com",
+    "project_id": "codelab-135d6",
+    "storage_bucket": "codelab-135d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700529931072:android:d75e8d447ac43e0df040a5",
+        "android_client_info": {
+          "package_name": "com.fyan.dev.smartiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700529931072-2rs8vm7gl7rvmt3o8ntofkn3kcf481d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEmUi8yKrkL2OSPW4R25c8590h3r-kVeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700529931072-2rs8vm7gl7rvmt3o8ntofkn3kcf481d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700529931072:android:9c7bcb049a968a0ef040a5",
+        "android_client_info": {
+          "package_name": "com.fyan.dev.wifimanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700529931072-2rs8vm7gl7rvmt3o8ntofkn3kcf481d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEmUi8yKrkL2OSPW4R25c8590h3r-kVeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700529931072-2rs8vm7gl7rvmt3o8ntofkn3kcf481d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
